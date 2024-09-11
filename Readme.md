@@ -5,7 +5,7 @@
 这是一份纯手打的《黑神话：悟空》四周目全成就存档，旨在分享和备份。后续还将更新分享五、六周目的存档。
 
 ## 使用方法
-1. 将ArchiveSaveFile.1.sav文件重命名，将数字“1”改为“第二步文件夹”中不重复的数字。
+1. 将ArchiveSaveFile.1.sav文件重命名，将数字改为“第二步文件夹”中不重复的数字。
 2. 打开游戏本地文件BlackMythWukong\b1\Saved\SaveGames\streamId。
 3. 将重命名后的文件放置于该目录下。
 4. 启动游戏。
@@ -18,7 +18,7 @@ This is a purely hand-crafted save file for Black Myth: Wukong, shared for backu
 
 ## Usage Method:
 
-1. Rename the `ArchiveSaveFile.1.sav` file, changing the number "1" to a non-repeating number in the "second step folder".
+1. Rename the `ArchiveSaveFile.1.sav` file, changing the number to a non-repeating number in the "second step folder".
 2. Open the game's local file `BlackMythWukong\b1\Saved\SaveGames\streamId`.
 3. Place the renamed file in this directory.
 4. Launch the game.
