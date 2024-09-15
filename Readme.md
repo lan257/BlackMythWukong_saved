@@ -1,5 +1,5 @@
 
-# 黑神话悟空四周目满成就存档分享
+# 黑神话悟空高周目满成就存档分享
 
 ![存档记录](存档记录.png)
 
@@ -15,7 +15,7 @@
 ## 注意事项
 存档是重要且脆弱的物件，请珍惜并及时备份。
 
-# Black Myth: Wukong Four-Week Full Achievement Save File
+# Black Myth: Wukong high-Week Full Achievement Save File
 
 This is a purely hand-crafted save file for Black Myth: Wukong, shared for backup purposes. Subsequent updates will share the save files for the fifth and sixth weeks.（the fifth weeks has updated in 2024.9.13，the sixth weeks has updated in 2024.9.15）
 
